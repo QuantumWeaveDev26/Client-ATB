@@ -1,0 +1,11 @@
+{
+  "asset": "public/images/program-women-india.webp",
+  "type": "AI-generated program illustration",
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Create a high-resolution natural photographic program illustration for an Indian tennis academy website, landscape 4:3 composition. A focused women's recreational tennis lesson at an everyday outdoor clay tennis court in Bengaluru, India. An Indian woman coach aged about 35 in a plain forest-green sports polo gives a racquet-grip demonstration to three Indian adult women aged about 25–45 in simple practical sports tops, track pants and leggings, with realistic tennis racquets. Friendly attentive expressions, natural body positions and realistic hands. Visibly Indian people with varied medium and dark brown skin tones. Reddish clay court with proper white court lines and net, green windscreens, leafy Bengaluru setting. No celebrity, no identifiable real people, no text, no academy name, no logos, no flags. Sharp documentary sports photography, naturally lit, clear people rather than a wide empty court, minimal background blur, no airbrushed skin. Different people and composition from a mixed adult lesson: women grouped by the near baseline with coach demonstrating a grip close to a student. Preserve heads and racquets within central 80% for responsive crop. 2000px or higher if supported. This is an illustrative program scene, not a record of any named academy.",
+  "nativeDimensions": [
+    1448,
+    1086
+  ],
+  "note": "Clearly captioned as AI-generated on the Programs page; no claim to show real ATB people or premises."
+}
