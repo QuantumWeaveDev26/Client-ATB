@@ -58,4 +58,8 @@ Keep the supplied academy photos and achievement captions accurate. Do not inven
 
 ## Repository
 
-https://github.com/QuantumWeaveDev26/Client-ATB
+Company repository (primary): https://github.com/atbtennisacademy/ATB
+
+Agency copy: https://github.com/QuantumWeaveDev26/Client-ATB
+
+See [repository synchronization](docs/REPOSITORIES.md) for the local dual-push setup.

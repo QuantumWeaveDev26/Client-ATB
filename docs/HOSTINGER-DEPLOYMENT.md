@@ -11,7 +11,7 @@ Use this option when your hosting plan offers **Node.js web apps / Deploy from G
 1. In hPanel, open **Websites → Create site → Web App**. Some dashboard versions
    show **Add website → Node.js** or **Import website → Deploy from GitHub** instead.
 2. Choose **Import your Git repository** and connect GitHub using your own
-   account. Allow Hostinger access to `QuantumWeaveDev26/Client-ATB`. If it is
+   account. Allow Hostinger access to `atbtennisacademy/ATB`. If it is
    not listed, the repository owner may need to grant the Hostinger GitHub app
    access; collaborator push access alone may not let you install that app.
    The **Public repository URL** option may also be offered for this public repo.
