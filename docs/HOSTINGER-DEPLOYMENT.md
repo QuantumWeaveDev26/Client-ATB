@@ -4,6 +4,43 @@ This repository is a React/Vite static website with three HTML entry points:
 `index.html`, `programs.html` and `gallery.html`. It needs no database, API
 credentials or persistent Node.js server. Node.js is used to build it.
 
+## Current plan: PHP/HTML Git deployment
+
+On the **Deploy from GitHub** screen showing Branch and a **public_html**
+destination (without build settings), use:
+
+| Setting | Value |
+| --- | --- |
+| Repository | atbtennisacademy/ATB |
+| Branch | **hostinger** |
+| Root directory on hosting | **public_html** |
+
+Then click **Deploy**. This branch already contains the compiled HTML, JavaScript,
+CSS and media. No build command is entered in this Hostinger screen. The branch's
+`.htaccess` makes index.html the directory entry point; the three pages remain
+directly accessible. The company domain selected in the screenshot is
+**atbtennisacademy.com**.
+
+Keep source edits on main. The **Build Hostinger static website** workflow builds
+and updates hostinger after each main push, using GitHub's built-in repository
+token. With Hostinger auto-deployment enabled for hostinger, that branch update
+publishes the new build. If a workflow fails, its previous deployment branch
+remains available; check the Actions tab before expecting a new version online.
+
+Manual rebuild/publish is also available from a clean, committed source checkout:
+
+```sh
+npm ci
+npm run publish:hostinger
+```
+
+The script leaves main and its index untouched, checks the compiled pages,
+and pushes a fast-forward deployment commit. It can join diverging deployment
+histories without overwriting them. `_deployment.json` identifies the source commit.
+
+The alternatives below remain available; no hosting-plan upgrade is required
+to serve this compiled static site.
+
 ## Option A: Connect GitHub in Hostinger
 
 Use this option when your hosting plan offers **Node.js web apps / Deploy from GitHub**.

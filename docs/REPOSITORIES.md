@@ -2,7 +2,13 @@
 
 - Primary company repository: https://github.com/atbtennisacademy/ATB
 - Agency copy: https://github.com/QuantumWeaveDev26/Client-ATB
-- Production branch: `main`
+- Source branch: `main`
+- Compiled Hostinger deployment branch: `hostinger`
+
+Hostinger's plain PHP/HTML Git integration must deploy **hostinger** into
+**public_html**. GitHub Actions builds that branch from main in each repository.
+The workflow uses only its built-in repository token; no Hostinger credentials
+are needed. Enable hPanel auto-deployment for hostinger to publish later builds.
 
 Both repositories contain the complete source, runtime assets and existing commit
 history. Author names and emails remain unchanged. Connect Hostinger to the

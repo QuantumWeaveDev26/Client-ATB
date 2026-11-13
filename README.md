@@ -34,6 +34,20 @@ No database, API secrets, payment processing, live slot inventory or spreadsheet
 
 ## Deploy
 
+For Hostinger's PHP/HTML Git deployment screen, select the **hostinger** branch
+and keep the destination **public_html**. That branch contains the compiled site
+at its root. Keep editing source on **main**; GitHub Actions rebuilds hostinger
+after main updates. The initial deployment still requires clicking Deploy in hPanel.
+
+To publish a build manually from a clean, committed source checkout:
+
+```sh
+npm run publish:hostinger
+```
+
+In this configured workspace, the command updates the deployment branch in both
+repositories. It never force-pushes or switches your source checkout.
+
 Deploy the **contents** of `dist/`, with `index.html`, `programs.html` and `gallery.html` at the hosting root. All photos, fonts and clips are local under `public/` and copied by Vite.
 
 See [Hostinger deployment and domain steps](docs/HOSTINGER-DEPLOYMENT.md) for GitHub deployment or a static upload. The site does not need a persistent Node.js server. No single-page-app fallback rewrite is necessary.
