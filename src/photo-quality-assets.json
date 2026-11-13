@@ -1,0 +1,538 @@
+{
+  "/images/gallery/atb-01.webp": {
+    "src": "/images/gallery/atb-01.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-01-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-02.webp": {
+    "src": "/images/gallery/atb-02.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-02-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-03.webp": {
+    "src": "/images/gallery/atb-03.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-03-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-04.webp": {
+    "src": "/images/gallery/atb-04.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-04-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-05.webp": {
+    "src": "/images/gallery/atb-05.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-05-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-06.webp": {
+    "src": "/images/gallery/atb-06.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-06-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-07.webp": {
+    "src": "/images/gallery/atb-07.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-07-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-08.webp": {
+    "src": "/images/gallery/atb-08.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-08-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-09.webp": {
+    "src": "/images/gallery/atb-09.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-09-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-10.webp": {
+    "src": "/images/gallery/atb-10.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-10-full.webp",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-11.webp": {
+    "src": "/images/gallery/atb-11.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-11-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-12.webp": {
+    "src": "/images/gallery/atb-12.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-12-full.webp",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-13.webp": {
+    "src": "/images/gallery/atb-13.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-13-full.webp",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-14.webp": {
+    "src": "/images/gallery/atb-14.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-14-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-15.webp": {
+    "src": "/images/gallery/atb-15.webp",
+    "width": 1200,
+    "height": 675,
+    "full": "/images/gallery/atb-15-full.webp",
+    "fullWidth": 4160,
+    "fullHeight": 2340
+  },
+  "/images/gallery/atb-16.webp": {
+    "src": "/images/gallery/atb-16.webp",
+    "width": 1200,
+    "height": 675,
+    "full": "/images/gallery/atb-16-full.webp",
+    "fullWidth": 4032,
+    "fullHeight": 2268
+  },
+  "/images/gallery/atb-17.webp": {
+    "src": "/images/gallery/atb-17.webp",
+    "width": 1200,
+    "height": 675,
+    "full": "/images/gallery/atb-17-full.webp",
+    "fullWidth": 4032,
+    "fullHeight": 2268
+  },
+  "/images/gallery/atb-18.webp": {
+    "src": "/images/gallery/atb-18.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-18-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-19.webp": {
+    "src": "/images/gallery/atb-19.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-19-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-20.webp": {
+    "src": "/images/gallery/atb-20.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-20-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-21.webp": {
+    "src": "/images/gallery/atb-21.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-21-full.webp",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-22.webp": {
+    "src": "/images/gallery/atb-22.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-22-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-23.webp": {
+    "src": "/images/gallery/atb-23.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-23-full.webp",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-24.webp": {
+    "src": "/images/gallery/atb-24.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-24-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/gallery/atb-25.webp": {
+    "src": "/images/gallery/atb-25.webp",
+    "width": 1200,
+    "height": 675,
+    "full": "/images/gallery/atb-25-full.webp",
+    "fullWidth": 4160,
+    "fullHeight": 2340
+  },
+  "/images/gallery/atb-26.webp": {
+    "src": "/images/gallery/atb-26.webp",
+    "width": 1200,
+    "height": 675,
+    "full": "/images/gallery/atb-26-full.webp",
+    "fullWidth": 4160,
+    "fullHeight": 2340
+  },
+  "/images/gallery/atb-27.webp": {
+    "src": "/images/gallery/atb-27.webp",
+    "width": 1200,
+    "height": 1600,
+    "full": "/images/gallery/atb-27-full.webp",
+    "fullWidth": 2880,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-28.webp": {
+    "src": "/images/gallery/atb-28.webp",
+    "width": 1200,
+    "height": 900,
+    "full": "/images/gallery/atb-28-full.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/gallery/atb-29.webp": {
+    "src": "/images/gallery/atb-29.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-29-full.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  },
+  "/images/gallery/atb-30.webp": {
+    "src": "/images/gallery/atb-30.webp",
+    "width": 1200,
+    "height": 1101,
+    "full": "/images/gallery/atb-30-full.webp",
+    "fullWidth": 3840,
+    "fullHeight": 3524
+  },
+  "/images/gallery/atb-31.webp": {
+    "src": "/images/gallery/atb-31.webp",
+    "width": 1200,
+    "height": 1385,
+    "full": "/images/gallery/atb-31-full.webp",
+    "fullWidth": 3327,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-32.webp": {
+    "src": "/images/gallery/atb-32.webp",
+    "width": 1200,
+    "height": 1253,
+    "full": "/images/gallery/atb-32-full.webp",
+    "fullWidth": 3678,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-33.webp": {
+    "src": "/images/gallery/atb-33.webp",
+    "width": 1200,
+    "height": 1487,
+    "full": "/images/gallery/atb-33-full.webp",
+    "fullWidth": 3098,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-34.webp": {
+    "src": "/images/gallery/atb-34.webp",
+    "width": 1200,
+    "height": 1317,
+    "full": "/images/gallery/atb-34-full.webp",
+    "fullWidth": 3498,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-35.webp": {
+    "src": "/images/gallery/atb-35.webp",
+    "width": 1200,
+    "height": 972,
+    "full": "/images/gallery/atb-35-full.webp",
+    "fullWidth": 3840,
+    "fullHeight": 3111
+  },
+  "/images/gallery/atb-36.webp": {
+    "src": "/images/gallery/atb-36.webp",
+    "width": 1200,
+    "height": 1465,
+    "full": "/images/gallery/atb-36-full.webp",
+    "fullWidth": 3145,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-37.webp": {
+    "src": "/images/gallery/atb-37.webp",
+    "width": 1200,
+    "height": 784,
+    "full": "/images/gallery/atb-37-full.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2509
+  },
+  "/images/gallery/atb-38.webp": {
+    "src": "/images/gallery/atb-38.webp",
+    "width": 1200,
+    "height": 1455,
+    "full": "/images/gallery/atb-38-full.webp",
+    "fullWidth": 3167,
+    "fullHeight": 3840
+  },
+  "/images/gallery/atb-39.webp": {
+    "src": "/images/gallery/atb-39.webp",
+    "width": 1200,
+    "height": 2133,
+    "full": "/images/gallery/atb-39-full.webp",
+    "fullWidth": 2340,
+    "fullHeight": 4160
+  },
+  "/images/enhanced/academy-event.webp": {
+    "src": "/images/enhanced/academy-event.webp",
+    "width": 1080,
+    "height": 800,
+    "full": "/images/polished-4k/enhanced/academy-event.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2844
+  },
+  "/images/enhanced/academy.jpg": {
+    "src": "/images/enhanced/academy.jpg",
+    "width": 653,
+    "height": 490,
+    "full": "/images/polished-4k/enhanced/academy.jpg",
+    "fullWidth": 3840,
+    "fullHeight": 2881
+  },
+  "/images/enhanced/court-detail.jpg": {
+    "src": "/images/enhanced/court-detail.jpg",
+    "width": 653,
+    "height": 490,
+    "full": "/images/polished-4k/enhanced/court-detail.jpg",
+    "fullWidth": 3840,
+    "fullHeight": 2881
+  },
+  "/images/enhanced/courts-clay.jpg": {
+    "src": "/images/enhanced/courts-clay.jpg",
+    "width": 810,
+    "height": 1080,
+    "full": "/images/polished-4k/enhanced/courts-clay.jpg",
+    "fullWidth": 2880,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/courts-hero-enhanced.webp": {
+    "src": "/images/enhanced/courts-hero-enhanced.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/courts-hero-enhanced.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/courts-trees.jpg": {
+    "src": "/images/enhanced/courts-trees.jpg",
+    "width": 653,
+    "height": 490,
+    "full": "/images/polished-4k/enhanced/courts-trees.jpg",
+    "fullWidth": 3840,
+    "fullHeight": 2881
+  },
+  "/images/enhanced/courts-wide.jpg": {
+    "src": "/images/enhanced/courts-wide.jpg",
+    "width": 653,
+    "height": 490,
+    "full": "/images/polished-4k/enhanced/courts-wide.jpg",
+    "fullWidth": 3840,
+    "fullHeight": 2881
+  },
+  "/images/enhanced/eshita-trophy.webp": {
+    "src": "/images/enhanced/eshita-trophy.webp",
+    "width": 720,
+    "height": 900,
+    "full": "/images/polished-4k/enhanced/eshita-trophy.webp",
+    "fullWidth": 3072,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/founder-on-court.webp": {
+    "src": "/images/enhanced/founder-on-court.webp",
+    "width": 1164,
+    "height": 840,
+    "full": "/images/polished-4k/enhanced/founder-on-court.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2771
+  },
+  "/images/enhanced/founder-portrait.webp": {
+    "src": "/images/enhanced/founder-portrait.webp",
+    "width": 1100,
+    "height": 1100,
+    "full": "/images/polished-4k/enhanced/founder-portrait.webp",
+    "fullWidth": 3840,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/program-adults-india.webp": {
+    "src": "/images/enhanced/program-adults-india.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/program-adults-india.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/program-intermediate-player.webp": {
+    "src": "/images/enhanced/program-intermediate-player.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/program-intermediate-player.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/program-women-india.webp": {
+    "src": "/images/enhanced/program-women-india.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/program-women-india.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/sehaj-trophy.webp": {
+    "src": "/images/enhanced/sehaj-trophy.webp",
+    "width": 720,
+    "height": 900,
+    "full": "/images/polished-4k/enhanced/sehaj-trophy.webp",
+    "fullWidth": 3072,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/tennis-contact-poster.webp": {
+    "src": "/images/enhanced/tennis-contact-poster.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/tennis-contact-poster.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/training-forehand.webp": {
+    "src": "/images/enhanced/training-forehand.webp",
+    "width": 1000,
+    "height": 800,
+    "full": "/images/polished-4k/enhanced/training-forehand.webp",
+    "fullWidth": 3840,
+    "fullHeight": 3072
+  },
+  "/images/enhanced/training-rally.webp": {
+    "src": "/images/enhanced/training-rally.webp",
+    "width": 1000,
+    "height": 800,
+    "full": "/images/polished-4k/enhanced/training-rally.webp",
+    "fullWidth": 3840,
+    "fullHeight": 3072
+  },
+  "/images/enhanced/training-ready.webp": {
+    "src": "/images/enhanced/training-ready.webp",
+    "width": 1000,
+    "height": 609,
+    "full": "/images/polished-4k/enhanced/training-ready.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2339
+  },
+  "/images/enhanced/training-wide.webp": {
+    "src": "/images/enhanced/training-wide.webp",
+    "width": 960,
+    "height": 720,
+    "full": "/images/polished-4k/enhanced/training-wide.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/video-practice-0.jpg": {
+    "src": "/images/enhanced/video-practice-0.jpg",
+    "width": 540,
+    "height": 960,
+    "full": "/images/polished-4k/enhanced/video-practice-0.jpg",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/video-practice-4.jpg": {
+    "src": "/images/enhanced/video-practice-4.jpg",
+    "width": 540,
+    "height": 960,
+    "full": "/images/polished-4k/enhanced/video-practice-4.jpg",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/video-practice-7.jpg": {
+    "src": "/images/enhanced/video-practice-7.jpg",
+    "width": 540,
+    "height": 960,
+    "full": "/images/polished-4k/enhanced/video-practice-7.jpg",
+    "fullWidth": 2160,
+    "fullHeight": 3840
+  },
+  "/images/polished/archive/sehaj-trophy.webp": {
+    "src": "/images/polished/archive/sehaj-trophy.webp",
+    "width": 720,
+    "height": 900,
+    "full": "/images/polished-4k/archive/sehaj-trophy.webp",
+    "fullWidth": 3072,
+    "fullHeight": 3840
+  },
+  "/images/polished/archive/eshita-trophy.webp": {
+    "src": "/images/polished/archive/eshita-trophy.webp",
+    "width": 720,
+    "height": 900,
+    "full": "/images/polished-4k/archive/eshita-trophy.webp",
+    "fullWidth": 3072,
+    "fullHeight": 3840
+  },
+  "/images/polished/archive/academy-event.webp": {
+    "src": "/images/polished/archive/academy-event.webp",
+    "width": 1080,
+    "height": 800,
+    "full": "/images/polished-4k/archive/academy-event.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2844
+  },
+  "/images/enhanced/program-red-ball-clay.webp": {
+    "src": "/images/enhanced/program-red-ball-clay.webp",
+    "width": 1122,
+    "height": 1402,
+    "full": "/images/polished-4k/enhanced/program-red-ball-clay.webp",
+    "fullWidth": 3073,
+    "fullHeight": 3840
+  },
+  "/images/enhanced/program-green-dot-clay.webp": {
+    "src": "/images/enhanced/program-green-dot-clay.webp",
+    "width": 1448,
+    "height": 1086,
+    "full": "/images/polished-4k/enhanced/program-green-dot-clay.webp",
+    "fullWidth": 3840,
+    "fullHeight": 2880
+  },
+  "/images/enhanced/program-adults-group.webp": {
+    "src": "/images/enhanced/program-adults-group.webp",
+    "width": 1012,
+    "height": 1800,
+    "full": "/images/polished-4k/enhanced/program-adults-group.webp",
+    "fullWidth": 2268,
+    "fullHeight": 4032
+  }
+}

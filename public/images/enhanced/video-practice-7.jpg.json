@@ -1,0 +1,14 @@
+{
+  "kind": "ai-enhanced-derivative",
+  "tool": "built-in imagegen",
+  "original": "/images/video-practice-7.jpg",
+  "original_sha256": "8de437fa1c0e511ab32eb37407a9f9c549bf06ee2496583ad2bcfc3b85835171",
+  "dimensions": [
+    540,
+    960
+  ],
+  "export": "ffmpeg Lanczos resize to original dimensions, same filename and format",
+  "prompt_policy": "Enhance the quality of THIS supplied photograph only. Restrained AI reconstruction for clearer natural edges, fine detail and compression/noise cleanup. This is an existing asset, not inspiration for a new photo. Keep the exact people and identities, facial features, ages, expressions, pose, clothing, hands, objects, tennis equipment, visible court lines, cones, nets, plants, backdrop, original text/logos, lighting, colors, framing and aspect ratio. No additions/removals or beautification. No new marks, lettering, labels or logos. Keep softly resolved areas natural instead of fabricating objects. Same photo, upgraded clarity.",
+  "authorization": "User explicitly chose AI reconstruction for extra detail; preserve original files.",
+  "provenance": "Original asset origin retained in its existing metadata and research/source-register.json; derivative receipt in research/image-enhancements/exports.json."
+}

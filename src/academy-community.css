@@ -1,0 +1,23 @@
+/* The actual academy community gives the introduction its visual centre. */
+.academy-intro.academy-intro--photo{grid-template-columns:minmax(0,1fr);gap:32px;padding-block:48px;align-content:start}
+.academy-community-photo{height:clamp(280px,46vh,520px);height:clamp(280px,46dvh,520px);overflow:hidden;border-radius:var(--radius);background:var(--sage)}
+.academy-community-photo>img{width:100%;height:100%;object-fit:cover;object-position:50% 70%}
+.academy-intro-content{display:grid;grid-template-columns:1fr 1.05fr;align-items:start;gap:clamp(32px,6vw,80px)}
+.academy-intro--photo .intro-statement{flex-direction:row;gap:20px;align-items:start}
+.academy-intro--photo .intro-statement>svg{width:32px;height:32px;margin-top:6px}
+.academy-intro--photo .intro-copy{padding-top:0;max-width:65ch}
+.academy-intro--photo .intro-copy p:first-child{font-size:17px;line-height:1.7}
+.academy-intro--photo .intro-copy p+p{font-size:13px;line-height:1.8;margin-top:16px}
+.academy-intro--photo .intro-copy .text-link{margin-top:16px}
+@media(max-width:1000px) and (min-width:761px){.academy-intro--photo .intro-statement h2{font-size:34px}.academy-intro--photo .intro-statement{gap:14px}.academy-intro--photo .intro-statement>svg{width:26px;height:26px}.academy-intro--photo .intro-copy p:first-child{font-size:15px}}
+@media(max-width:760px){
+ .academy-intro.academy-intro--photo{padding-block:32px;gap:24px}
+ .academy-community-photo{height:auto;aspect-ratio:16/9}
+ .academy-community-photo>img{object-fit:contain;object-position:center}
+ .academy-intro-content{grid-template-columns:1fr;gap:24px}
+ .academy-intro--photo .intro-statement{gap:14px}
+ .academy-intro--photo .intro-statement>svg{width:26px;height:26px;margin-top:5px}
+ .academy-intro--photo .intro-statement h2{font-size:clamp(30px,8vw,39px)}
+ .academy-intro--photo .intro-copy p:first-child{font-size:16px}
+ .academy-intro--photo .intro-copy p+p{font-size:13px}
+}

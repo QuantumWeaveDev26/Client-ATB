@@ -1,0 +1,11 @@
+.practice-video-frame{position:relative;isolation:isolate;overflow:hidden;border-radius:var(--radius);background:var(--forest)}
+.film-play-surface{position:absolute;inset:0;z-index:1;width:100%;height:100%;padding:0;display:grid;place-items:center;background:transparent;color:var(--forest);cursor:pointer}
+.film-play-icon{display:grid;place-items:center;width:64px;height:64px;border-radius:50%;background:var(--paper);transition:opacity .2s,transform .2s}
+.film-play-surface:focus-visible{outline:3px solid var(--lime);outline-offset:-6px}
+.practice-video-frame.is-playing:not(.is-loading) .film-play-icon{opacity:0;transform:scale(.94)}
+.practice-video-frame.is-playing .film-play-surface:focus-visible .film-play-icon{opacity:1;transform:scale(1)}
+.film-buffering{position:absolute;top:calc(50% + 44px);left:50%;transform:translateX(-50%);padding:6px 10px;border-radius:4px;background:var(--forest);color:var(--paper);font-size:11px}
+.academy-film .film-error{color:var(--forest);font-size:12px;line-height:1.7}
+@media(hover:hover){.practice-video-frame.is-playing:hover .film-play-icon{opacity:1;transform:scale(1)}}
+@media(max-width:760px){.film-play-icon{width:56px;height:56px}}
+@media(prefers-reduced-motion:reduce){.film-play-icon{transition:none}}

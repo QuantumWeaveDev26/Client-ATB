@@ -1,0 +1,11 @@
+{
+  "asset": "public/images/program-adults-india.webp",
+  "type": "AI-generated program illustration",
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Create a high-resolution natural photographic program illustration for an Indian tennis academy website, landscape 4:3 composition. A genuine-looking everyday adult tennis coaching scene in Bengaluru: an Indian male tennis coach in plain dark athletic polo demonstrates a forehand to three Indian adult recreational learners (two men and one woman, ages approximately 28–45) in comfortable Indian urban sportswear, all holding realistic tennis racquets. Reddish brown outdoor clay tennis court, proper white lines, green windscreens and tropical trees typical of Bengaluru. The people are visibly engaged in coaching, not posing for a team picture. Natural soft morning daylight, sharp faces, authentic varied medium and dark brown skin tones, realistic hands and racquets, documentary sports photography with no excessive blur, no luxury resort, no foreign venue, no text, no logos, no identifiable real persons. Frame all principal people fully with heads and racquets safely inside central 80% of frame, suitable for a responsive website image crop. Crisp detailed professional photograph, 2000px or higher if supported. This is an illustrative scene, not documentary evidence of a real named academy.",
+  "nativeDimensions": [
+    1448,
+    1086
+  ],
+  "note": "Clearly captioned as AI-generated on the Programs page; no claim to show real ATB people or premises."
+}

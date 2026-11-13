@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.tools/
+.impeccable/questions/
+.impeccable/mocks/
+.impeccable/review/
+.impeccable/config.local.json
+*.log
+
+# Local credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+.hostinger/
+.codex/
+.agents/
+*.pem
+*.key
+
+# Private source uploads, research backups and generated handoff archives
+/research/
+/PC-Connect/
+/.impeccable/
+*.zip
+.DS_Store
+Thumbs.db

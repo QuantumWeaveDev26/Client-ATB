@@ -1,0 +1,54 @@
+/* Ordinary sections follow their content. Only the photographic hero and
+   animated tennis stage retain viewport sizing; no empty arrival screens. */
+:root {
+  --screen-height: 100vh;
+  --arrival-header-space: 132px;
+  scroll-padding-block-start: 0;
+}
+@supports (height: 100dvh) {
+  :root { --screen-height: 100dvh; }
+}
+section[id], .gallery-album, main .program-card[id] {
+  scroll-margin-block-start: 0;
+}
+main > section:not(.hero):not(.rally-story) {
+  min-block-size: 0;
+  box-sizing: border-box;
+  min-inline-size: 0;
+}
+.hero {
+  min-height: calc(var(--screen-height) - var(--arrival-header-space));
+}
+@media (min-width: 761px) {
+  .hero-copy { padding-bottom: 144px; }
+}
+/* Compact inner-page introductions lead directly into their collections. */
+.programs-page main > section.programs-intro,
+.gallery-page main > section.gallery-page-intro {
+  min-block-size: 0;
+}
+/* Keep readable section spacing without padding short content to a screen. */
+.academy-intro, .academy-films, .faq-section { align-content: start; }
+main > .founders-section, main > .coaching, main > .booking-section,
+main > .faq-section, main > .programs-guidance { padding-block: 64px; }
+.academy-films { padding-bottom: 64px; }
+.gallery-preview, .visit-section { margin-block-end: 0; }
+.visit-photo { overflow: clip; }
+.visit-photo > img { max-height: 100%; }
+
+/* A short window can scroll the complete sticky stage before it pins at its
+   lower edge. Keep the long runway that drives the racquet/ball animation. */
+.rally-sticky {
+  height: var(--screen-height);
+  max-height: none;
+  top: min(0px, calc(var(--screen-height) - 660px));
+}
+@media (max-width: 760px) {
+  :root { --arrival-header-space: 96px; }
+  .hero-planner.simple-hero-planner { margin-top: auto; }
+  .rally-sticky { top: min(0px, calc(var(--screen-height) - 680px)); }
+  .visit-section { grid-template-rows: 300px auto; }
+  main > .founders-section, main > .coaching, main > .booking-section,
+  main > .faq-section, main > .programs-guidance { padding-block: 40px; }
+  .academy-films { padding-bottom: 40px; }
+}

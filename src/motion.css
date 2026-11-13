@@ -1,0 +1,15 @@
+/* Lenis owns wheel interpolation. CSS smooth scrolling would add another ease. */
+html.has-site-motion { scroll-behavior: auto; }
+html.has-site-motion .hero-photo { animation: none; }
+.hero h1 .hero-line{display:block;overflow:hidden;padding-bottom:.13em;margin-bottom:-.13em;color:var(--white)}
+.hero h1 .hero-line-inner{display:inline-block;transform-origin:left bottom;color:var(--white)}
+.hero h1 .hero-line-accent{color:var(--lime)}
+.program-photo-frame,.gallery-photo-frame{overflow:hidden;border-radius:var(--radius);min-width:0}
+.gallery-photo-frame>img{width:100%;height:480px;object-fit:cover;display:block}
+.films-grid{perspective:1100px}
+.academy-film{transform-origin:center bottom;backface-visibility:hidden}
+.visit-photo{overflow:hidden}
+@media(max-width:760px){.gallery-photo-frame>img{height:300px}}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
