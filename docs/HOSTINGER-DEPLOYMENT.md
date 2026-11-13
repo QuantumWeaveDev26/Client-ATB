@@ -8,9 +8,13 @@ credentials or persistent Node.js server. Node.js is used to build it.
 
 Use this option when your hosting plan offers **Node.js web apps / Deploy from GitHub**.
 
-1. In hPanel, open **Websites → Add website → Node.js** (or **Import website → Deploy from GitHub**).
-2. Connect GitHub using your own account. Allow Hostinger access to
-   `QuantumWeaveDev26/Client-ATB`; organization/repository permissions may need approval.
+1. In hPanel, open **Websites → Create site → Web App**. Some dashboard versions
+   show **Add website → Node.js** or **Import website → Deploy from GitHub** instead.
+2. Choose **Import your Git repository** and connect GitHub using your own
+   account. Allow Hostinger access to `QuantumWeaveDev26/Client-ATB`. If it is
+   not listed, the repository owner may need to grant the Hostinger GitHub app
+   access; collaborator push access alone may not let you install that app.
+   The **Public repository URL** option may also be offered for this public repo.
 3. Choose the repository and its `main` branch.
 4. Review the detected settings:
 
